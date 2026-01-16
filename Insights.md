@@ -22,10 +22,15 @@ Python, Pandas, Matplotlib.
 - They show 100% activation and higher paid conversions which suggests users who downloaded the app actually activated it. 
 - iOS users drop off after downloading (1/3 do not activate or use the app).
 
+  [
+](https://github.com/HillaryIkhais/Mobile-App-User-Retention./blob/main/Visualizations/User%20Retention%20Based%20On%20Operating%20System.png?raw=true)<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/105eb5c2-6342-4c36-88c3-e0e87e037975" />
+
 
 - **Age Groups:** 
 - Users aged 18-22 are the most engaged, with a higher percentage converting to the paid version. 
 - Users from ages 23-32 show strong monetization potential.
+
+  
 
 
 - **Gender:** 
