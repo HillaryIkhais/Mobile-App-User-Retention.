@@ -30,7 +30,8 @@ Python, Pandas, Matplotlib.
 - Users aged 18-22 are the most engaged, with a higher percentage converting to the paid version. 
 - Users from ages 23-32 show strong monetization potential.
 
-  
+  [
+](https://github.com/HillaryIkhais/Mobile-App-User-Retention./blob/main/Visualizations/User%20Retention%20Based%20on%20Age.png?raw=true)<img width="5500" height="2000" alt="image" src="https://github.com/user-attachments/assets/dfcc151c-9189-49d3-a1ca-25786a7d22f5" />
 
 
 - **Gender:** 
